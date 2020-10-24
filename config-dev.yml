@@ -1,1 +1,2 @@
-this is  a springcloud-config-dev
+config:
+  info: this si sjdflaj version:1
